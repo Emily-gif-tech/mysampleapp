@@ -1,0 +1,38 @@
+body
+     h1{
+	background-color: rgba(255,0,0,0.5);
+	text-align:center;
+     }
+	 h3{
+		 border-bottom: 10px solid red;
+	 }
+	 #object{
+		 position: absolute;
+		 top: 50px;
+		 left: 100px;
+	 }
+	#skills{
+		position:absolute;
+		top: 330px;
+		left: 100px;
+	}
+	#experience{
+		position: absolute;
+		top: 45px;
+		left: 590px;
+		float: left;
+	}
+	#education{
+		position: absolute;
+		top: 340px;
+		left: 590px;
+	}
+	#volunteer{
+		position: absolute;
+		top: 640px;
+		left: 590px;
+	}
+	.social-menu ul {
+		list-style:none;
+	}
+	 
